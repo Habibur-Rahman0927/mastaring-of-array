@@ -8,3 +8,15 @@
 8. Remove elements from array.
 9. Array concat.
 10. Slice array in multiple way
+11. cli app
+12. make a stack class oop
+13. stack implement and build in method 
+14. basic queue
+15. implement queue and build in method javascript;
+16. ForEach implement
+17. Mapping implement
+18. filter 
+19. some and every
+20. array with reduce
+
+
