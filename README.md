@@ -18,5 +18,15 @@
 18. filter 
 19. some and every
 20. array with reduce
-
+21. compress function anf combain data
+22. linear Search
+23. Binary serach
+24. find method and findIndex
+25. static method and instance method here is static method
+26. instance method
+27. iterable object
+28. find iterator from array and keys value entries
+29. array is an object
+30. shallow copy and deep copy
+31. compare and prototype
 
